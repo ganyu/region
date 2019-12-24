@@ -1,5 +1,5 @@
 <?php
-namespace chenkby\region;
+namespace ganyu\region;
 
 use yii\base\InvalidParamException;
 use yii\base\Widget;
